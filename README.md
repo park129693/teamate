@@ -123,3 +123,16 @@ node registerUser.js
 node server.js
 ```
 
+
+
+##### 9. front-end
+
+![Untitled Diagram (1)](C:\Users\1\Downloads\Untitled Diagram (1).jpg)
+
+
+
+##### 10. web_template flowchart
+
+
+
+##### 11. web_template UML
