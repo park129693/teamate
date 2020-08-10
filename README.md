@@ -49,5 +49,5 @@ node server.js
 
 #### prototype 사이트맵구조
 
- ![Untitled Diagram](https://user-images.githubusercontent.com/65533250/89747298-2757d180-daf9-11ea-9bd7-912c39c9c869.jpg)
+ ![sitemap](https://user-images.githubusercontent.com/65533250/89747476-e3b19780-daf9-11ea-93d5-513e465ce459.jpg)
 
